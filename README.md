@@ -1,6 +1,10 @@
 # Currency-Convertor
 
->> Fully working version in "master", unstable version in unstable"
+> Fully working version in "master". Version being worked on in "unstable"
+
+Current tasks:
+- Staff discount boxes
+- Error messages with Combo boxes (OrgiCur/DestiCur)
 
 Converts to:
 -	Pounds £ 
