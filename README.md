@@ -1,6 +1,6 @@
 # Currency-Convertor
 
-Fully working version
+>> Fully working version in "master", unstable version in unstable"
 
 Converts to:
 -	Pounds £ 
