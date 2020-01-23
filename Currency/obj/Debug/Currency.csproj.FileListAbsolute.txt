@@ -51,3 +51,17 @@ A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Deb
 A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.application
 A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.exe
 A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.pdb
+C:\Users\Sam\Desktop\currency\Currency\bin\Debug\Currency.exe.config
+C:\Users\Sam\Desktop\currency\Currency\bin\Debug\Currency.exe.manifest
+C:\Users\Sam\Desktop\currency\Currency\bin\Debug\Currency.application
+C:\Users\Sam\Desktop\currency\Currency\bin\Debug\Currency.exe
+C:\Users\Sam\Desktop\currency\Currency\bin\Debug\Currency.pdb
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.Form1.resources
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.Properties.Resources.resources
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.exe.manifest
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.application
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.exe
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.pdb

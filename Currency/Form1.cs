@@ -98,9 +98,9 @@ namespace Currency
                 one = 0;
             }
 
-            if (one > 2500)
+            if (one > 10000)
             {
-                MessageBox.Show("Maximum conversion is 2500");
+                MessageBox.Show("Maximum conversion is 10000");
                 one = 0;
             }
 

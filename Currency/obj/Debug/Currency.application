@@ -4,17 +4,17 @@
   <description asmv2:publisher="Currency" asmv2:product="Currency" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Currency.exe.manifest" size="3456">
+    <dependentAssembly dependencyType="install" codebase="Currency.exe.manifest" size="3458">
       <assemblyIdentity name="Currency.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>GYv6L4Li9Fg5oFSHebNJjAWVhuwl1wHiNIzEGOfA1fQ=</dsig:DigestValue>
+        <dsig:DigestValue>vP+ZG9l9/9GSTpqI9eBiaMxW+DJTS80YxHbeBV6ab9M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
