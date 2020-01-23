@@ -1,0 +1,53 @@
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Projects\Currency\Currency\bin\Debug\Currency.exe.config
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Projects\Currency\Currency\bin\Debug\Currency.exe
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Projects\Currency\Currency\bin\Debug\Currency.pdb
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Projects\Currency\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Projects\Currency\Currency\obj\Debug\Currency.Form1.resources
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Projects\Currency\Currency\obj\Debug\Currency.Properties.Resources.resources
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Projects\Currency\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Projects\Currency\Currency\obj\Debug\Currency.exe
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Projects\Currency\Currency\obj\Debug\Currency.pdb
+D:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+D:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.Form1.resources
+D:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.Properties.Resources.resources
+D:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+D:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.exe
+D:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.pdb
+D:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.exe.config
+D:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.exe
+D:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.pdb
+Z:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+Z:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.Form1.resources
+Z:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.Properties.Resources.resources
+Z:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+Z:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.exe
+Z:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.pdb
+Z:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.exe.config
+Z:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.exe
+Z:\College\Level 3 IT\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.pdb
+D:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.exe.config
+D:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.exe
+D:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.pdb
+D:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+D:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.Form1.resources
+D:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.Properties.Resources.resources
+D:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+D:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.exe
+D:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.pdb
+D:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.exe.manifest
+D:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.application
+D:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.exe.manifest
+D:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.application
+A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.exe.config
+A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.exe.manifest
+A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.application
+A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.exe
+A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\bin\Debug\Currency.pdb
+A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.Form1.resources
+A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.Properties.Resources.resources
+A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.exe.manifest
+A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.application
+A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.exe
+A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.pdb
