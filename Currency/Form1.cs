@@ -91,23 +91,33 @@ namespace Currency
 
             double one = Convert.ToDouble(OriginalCur.Text);
             one = Math.Round(one, 2);
-
+            //if below one output message
             if (one < 1)
             {
                 MessageBox.Show("Min conversion is 1");
                 one = 0;
             }
-
+            //if higher than max number output message
             if (one > 10000)
             {
                 MessageBox.Show("Maximum conversion is 10000");
                 one = 0;
             }
+            //error message if no currency selected 
+            if (currencyfrom.Text == "Select original currency")
+            {
+                MessageBox.Show("Please Select a original currency to convert from");
+            }
+            //If no desti cur selected error
+            if (currencyto.Text == "Select destination currency")
+            {
+                MessageBox.Show("Please Select a destination currency to convert from");
+            }
 
             //if currency from is conversion calcs
             //From Pound:
 
-            if (currencyfrom.Text == "British Pound (GBP)")
+                if (currencyfrom.Text == "British Pound (GBP)")
             {
                 if (currencyto.Text == "United States Dollar (USD)")
                 {
