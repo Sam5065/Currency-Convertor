@@ -94,7 +94,7 @@ namespace Currency
 
             if (one < 1)
             {
-                MessageBox.Show(" Min conversion is 1");
+                MessageBox.Show("Min conversion is 1");
                 one = 0;
             }
 
