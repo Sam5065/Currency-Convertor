@@ -152,7 +152,7 @@
             this.Controls.Add(this.ConvertedCur);
             this.Controls.Add(this.OriginalCur);
             this.Name = "Form1";
-            this.Text = "Currency Converter - Unstable ver";
+            this.Text = "Currency Converter";
             this.ResumeLayout(false);
             this.PerformLayout();
 

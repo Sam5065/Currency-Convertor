@@ -5,11 +5,9 @@ namespace Currency
 {
     public partial class Form1 : Form
     {
-        double one;
+        
         double ConvertedCurrency;
-        double transactionFee;
-        double subtotal;
-        double totalCost;
+       
 
         public Form1()
         {
@@ -98,25 +96,28 @@ namespace Currency
                 one = 0;
             }
             //if higher than max number output message
+            //Max conversion rate
             if (one > 10000)
             {
                 MessageBox.Show("Maximum conversion is 10000");
                 one = 0;
             }
+
             //error message if no currency selected 
             if (currencyfrom.Text == "Select original currency")
             {
                 MessageBox.Show("Please Select a original currency to convert from");
             }
+
             //If no desti cur selected error
-            if (currencyto.Text == "Select destination currency")
+            else if (currencyto.Text == "Select destination currency")
             {
                 MessageBox.Show("Please Select a destination currency to convert from");
             }
 
             //if currency from is conversion calcs
-            //From Pound:
 
+            //From Pound:
                 if (currencyfrom.Text == "British Pound (GBP)")
             {
                 if (currencyto.Text == "United States Dollar (USD)")
