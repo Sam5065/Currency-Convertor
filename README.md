@@ -4,7 +4,7 @@
 
 Current tasks:
 - Staff discount boxes
-- Error messages with Combo boxes (OrgiCur/DestiCur)
+- ~~Error messages with Combo boxes (OrgiCur/DestiCur)~~ Completed in ver 0.3
 
 Converts to:
 -	Pounds £ 
