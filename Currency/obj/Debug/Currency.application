@@ -7,14 +7,14 @@
     <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Currency.exe.manifest" size="3456">
+    <dependentAssembly dependencyType="install" codebase="Currency.exe.manifest" size="3458">
       <assemblyIdentity name="Currency.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IPtuRgYQG4+q8GtM8xpodzGqljc8qPdfemHHdjqlBso=</dsig:DigestValue>
+        <dsig:DigestValue>T2QGjGkKc19WE17MWTp1Pe57J4d7E3wBmYvz4UxT2CA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -11,7 +11,7 @@ namespace Currency
 
         public Form1()
         {
-            //Currencies list
+            //Conversion Currencies list:
             InitializeComponent();
             currencyfrom.Items.Add("British Pound (GBP)");
             currencyfrom.Items.Add("United States Dollar (USD)");
@@ -20,7 +20,7 @@ namespace Currency
             currencyfrom.Items.Add("Japanese Yen");
         }
 
-        //below: Original Currency Combo Box
+        //Original Currency Combo Box:
         private void currencyfrom_SelectedIndexChanged(object sender, EventArgs e)
 
         {
@@ -89,14 +89,14 @@ namespace Currency
 
             double one = Convert.ToDouble(OriginalCur.Text);
             one = Math.Round(one, 2);
-            //if below one output message
+            //If amount below 0 -> output message:
             if (one < 1)
             {
                 MessageBox.Show("Min conversion is 1");
                 one = 0;
             }
-            //if higher than max number output message
-            //Max conversion rate
+            //If max amount reached -> output message
+            //Max rate information "if (one > [Max Amount])"
             if (one > 10000)
             {
                 MessageBox.Show("Maximum conversion is 10000");
@@ -114,6 +114,11 @@ namespace Currency
             {
                 MessageBox.Show("Please Select a destination currency to convert from");
             }
+
+            //staff discount information:
+
+
+
 
             //if currency from is conversion calcs
 
@@ -145,6 +150,7 @@ namespace Currency
 
                 }
             }
+
             //From American Dollar
             if (currencyfrom.Text == "United States Dollar (USD)")
             {
@@ -172,6 +178,7 @@ namespace Currency
                     ConvertedCur.Text = Convert.ToString((ConvertedCurrency));
                 }
             }
+
             //From Euro
             if (currencyfrom.Text == "Euro (EUR)")
             {
@@ -200,6 +207,7 @@ namespace Currency
                 }
 
             }
+
             //From AUD
             if (currencyfrom.Text == "Australian Dollar (AUD)")
             {
@@ -228,6 +236,7 @@ namespace Currency
                 }
 
             }
+
             //From Yen
             if (currencyfrom.Text == "Japanese Yen")
             {

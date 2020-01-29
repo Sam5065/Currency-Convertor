@@ -91,3 +91,17 @@ A:\Program\Currency\Currency\obj\Debug\Currency.pdb
 \\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\bin\Debug\Currency.pdb
 \\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\obj\Debug\Currency.exe.manifest
 \\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\obj\Debug\Currency.application
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\bin\Debug\Currency.exe.config
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\bin\Debug\Currency.exe.manifest
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\bin\Debug\Currency.application
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\bin\Debug\Currency.exe
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\bin\Debug\Currency.pdb
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.Form1.resources
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.Properties.Resources.resources
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.exe.manifest
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.application
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.exe
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.pdb
