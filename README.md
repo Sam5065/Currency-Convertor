@@ -13,7 +13,7 @@ Converts to:
 -	Australian Dollar (AUD)
 -	Japanese Yen 
 
-Convertor has max conversion of 2500 of original currency
+Convertor has max conversion of 10000 of original currency
 
 ## Current exchange rates
 
