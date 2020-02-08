@@ -51,3 +51,71 @@ A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Deb
 A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.application
 A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.exe
 A:\College\Level 3 IT\David\Program\Currency Convertor\Currency\Currency\obj\Debug\Currency.pdb
+C:\Users\Sam\Desktop\currency\Currency\bin\Debug\Currency.exe.config
+C:\Users\Sam\Desktop\currency\Currency\bin\Debug\Currency.exe.manifest
+C:\Users\Sam\Desktop\currency\Currency\bin\Debug\Currency.application
+C:\Users\Sam\Desktop\currency\Currency\bin\Debug\Currency.exe
+C:\Users\Sam\Desktop\currency\Currency\bin\Debug\Currency.pdb
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.Form1.resources
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.Properties.Resources.resources
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.exe.manifest
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.application
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.exe
+C:\Users\Sam\Desktop\currency\Currency\obj\Debug\Currency.pdb
+A:\Program\Currency\Currency\bin\Debug\Currency.exe.config
+A:\Program\Currency\Currency\bin\Debug\Currency.exe.manifest
+A:\Program\Currency\Currency\bin\Debug\Currency.application
+A:\Program\Currency\Currency\bin\Debug\Currency.exe
+A:\Program\Currency\Currency\bin\Debug\Currency.pdb
+A:\Program\Currency\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+A:\Program\Currency\Currency\obj\Debug\Currency.Form1.resources
+A:\Program\Currency\Currency\obj\Debug\Currency.Properties.Resources.resources
+A:\Program\Currency\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+A:\Program\Currency\Currency\obj\Debug\Currency.exe.manifest
+A:\Program\Currency\Currency\obj\Debug\Currency.application
+A:\Program\Currency\Currency\obj\Debug\Currency.exe
+A:\Program\Currency\Currency\obj\Debug\Currency.pdb
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\obj\Debug\Currency.Form1.resources
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\obj\Debug\Currency.Properties.Resources.resources
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\obj\Debug\Currency.exe
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\obj\Debug\Currency.pdb
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\bin\Debug\Currency.exe.config
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\bin\Debug\Currency.exe.manifest
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\bin\Debug\Currency.application
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\bin\Debug\Currency.exe
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\bin\Debug\Currency.pdb
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\obj\Debug\Currency.exe.manifest
+\\li-studenthd-01\student home drives$\active\30061132\My Documents\Visual Studio 2015\Currency\obj\Debug\Currency.application
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\bin\Debug\Currency.exe.config
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\bin\Debug\Currency.exe.manifest
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\bin\Debug\Currency.application
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\bin\Debug\Currency.exe
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\bin\Debug\Currency.pdb
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.Form1.resources
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.Properties.Resources.resources
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.exe.manifest
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.application
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.exe
+C:\Users\Sam\Desktop\Currency-Convertor-unstable\Currency\obj\Debug\Currency.pdb
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\bin\Debug\Currency.exe.config
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\bin\Debug\Currency.exe.manifest
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\bin\Debug\Currency.application
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\bin\Debug\Currency.exe
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\bin\Debug\Currency.pdb
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\obj\Debug\Currency.Form1.resources
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\obj\Debug\Currency.Properties.Resources.resources
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\obj\Debug\Currency.exe.manifest
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\obj\Debug\Currency.application
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\obj\Debug\Currency.exe
+C:\Users\Sam\Desktop\Currency RTP\Currency-Convertor-unstable ver0.4\Currency\obj\Debug\Currency.pdb
