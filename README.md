@@ -2,9 +2,10 @@
 
 > Fully working version in "master". Version being worked on in "unstable"
 
+> Ver 0.4 pushed to master 8/2/20 as ver 2.0, see master for change log
+
 Current tasks:
 - Staff discount boxes
-- ~~Error messages with Combo boxes (OrgiCur/DestiCur)~~ Completed in ver 0.3
 
 Converts to:
 -	Pounds £ 
