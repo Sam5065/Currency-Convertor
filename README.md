@@ -1,6 +1,10 @@
 # Currency-Convertor
-
-Fully working version
+### Current version: 2.0
+Change log:
+ - Now displays error messages if no currencies are selected
+ - Added and improved comments
+ - Updated max conversion amount (2500 -> 10000)
+ - Added code for future update (This code does nothing at the current moment)
 
 Converts to:
 -	Pounds £ 
